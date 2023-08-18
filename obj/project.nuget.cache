@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LjSJaCJQ+Hx8O+ZhlaDuCBl1IY+7YVbHnepdQ9/IGc7lojUCa2GWMtwcn8mkHc8kKMR8RF9Nj0nuxFlbUo36Og==",
+  "success": true,
+  "projectFilePath": "/Users/codeguru/workspace/fsharp/OSRMEngine/OSRMEngine.fsproj",
+  "expectedPackageFiles": [
+    "/Users/codeguru/.nuget/packages/fsharp.core/7.0.200/fsharp.core.7.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
