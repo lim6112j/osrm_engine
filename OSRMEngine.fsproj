@@ -5,9 +5,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="Repository/UserRepository.fs" />
+    <Compile Include="Services/UserService.fs" />
     <Compile Include="WeatherForecast.fs" />
     <Compile Include="Controllers/WeatherForecastController.fs" />
     <Compile Include="Program.fs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <PackageReference Include="suave" Version="2.6.2" />
   </ItemGroup>
 
 </Project>

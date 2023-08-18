@@ -15,5 +15,6 @@
   </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">/Users/codeguru/.nuget/packages/fsharp.core/7.0.200</PkgFSharp_Core>
+    <PkgNewtonsoft_Json Condition=" '$(PkgNewtonsoft_Json)' == '' ">/Users/codeguru/.nuget/packages/newtonsoft.json/13.0.3</PkgNewtonsoft_Json>
   </PropertyGroup>
 </Project>
